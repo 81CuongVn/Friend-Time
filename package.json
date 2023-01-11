@@ -36,7 +36,7 @@
         "@vvo/tzdb": "6.5.1",
         "chrono-node": "2.2.7",
         "class-transformer": "0.5.1",
-        "class-validator": "0.13.2",
+        "class-validator": "0.14.0",
         "discord-api-types": "0.29.0",
         "discord.js": "13.6.0",
         "discord.js-collector-utils": "1.4.2",
